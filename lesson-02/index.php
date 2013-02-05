@@ -4,7 +4,7 @@
   <title>parchibald.cs53.11b.home</title>
  </head>
  <body>
- <?php echo '<p>Hello Web. My name Is Paul Archibald, 
+ <?php echo '<p>Hello fellow Web Programming students. My name Is Paul Archibald, 
  	and I am studying web programming and GIS 
  	(geographical Information Systems) at SRJC.</p>'; ?> 
  
@@ -14,8 +14,6 @@
  <p><input type="submit" /></p>
  <p> (this will take you to another page) </p>
 </form>
- 
-
 
  </body>
 </html>
